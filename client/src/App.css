@@ -1,0 +1,109 @@
+.navcolor{
+  background-color: turquoise;
+}
+
+.navbar-brand{
+  font-family: 'Parisienne', cursive;
+  font-family: 'Staatliches', cursive; 
+  font-size: 25px;
+  font-weight: 800;
+}
+
+.navbar-brand Link{
+  text-decoration: none;
+}
+.link{
+  color:rgb(182, 91, 91);
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.link:hover{
+  color:white;
+  text-decoration:none;
+}
+
+.usersignup{
+  max-width: 600px;
+  border: 2px solid grey;
+  padding-bottom: 10px;
+  margin: 15px auto;
+  border-radius: 5px;
+}
+.contp{
+  background-color:rgb(60, 150, 60);
+  color:white;
+  padding:5px;
+  position: absolute;
+  top: 70px;
+  right:30px;
+  border-radius: 5px;
+  z-index:999;
+  transition: top 0.5s ease;
+}
+
+.imgcss{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 130px;
+    height:130px;
+  
+}
+
+.homestyle{
+  margin-left:0px;
+  margin-right: 18px;
+  margin-top:10px;
+}
+.cont{
+  border-left: 1px solid lightgrey;
+  border-right: 1px solid lightgrey;
+  border-width: 15px;
+  background-color: white;
+}
+  
+.imgcar{
+  width:100%;
+  height:350px
+}
+
+.cp{
+  width:60px;
+  height:50px;
+}
+
+.card-img{
+  max-width: 100px;
+}
+.card{
+  height:280px;
+  width:210px;
+  border-radius:10px;
+}
+
+.footercss{
+  margin-left:50px;
+  margin-top: 55px;
+  margin-bottom: 40px;
+}
+
+.buttoncss{
+  margin-top: 70px;
+  float:left;
+  margin-left: 30px;
+}
+
+.cvs{
+  text-decoration: none;
+}
+
+.dropdown-menu{
+  background-color: turquoise;
+  border-color: transparent;
+  color:lightcyan
+}
+
+.linkd:hover{
+  color:rgb(49, 114, 49);
+  background-color: lightgrey;
+}
